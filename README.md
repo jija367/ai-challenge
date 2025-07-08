@@ -176,3 +176,6 @@ streamlit run home.py --server.port 8888 # 특정포트로 실행 8888
 3. db_config.py : sqlite db를 생성하고 데이터를 insert 함
 4. marketing_chatbot_toText : 실제 챗봇 구현 쿼리 / 자연어 결과까지 포함
 5. sqlite.sql : 실행 가능한 sql 저장소
+
+
+![포스터](https://github.com/user-attachments/assets/399120bf-7793-4fa8-a6a3-2b922813fe42)
